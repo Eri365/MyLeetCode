@@ -1,2 +1,18 @@
 # MyLeetCode
-紀錄自己練LeetCode的過程
+
+## Problem List
+
+### Implementation
+* E [Two Sum](https://leetcode.com/problems/two-sum/)
+### Array
+
+### Linked List
+
+### Two pointers
+
+### String
+
+### Math
+
+### Hash
+
